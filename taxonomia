@@ -1,0 +1,49 @@
+App Academia
+│
+├── Home
+	├── Calendário de treino
+	├── Registrar treino 
+	├── Dias de disponibilidade da academia
+
+
+├── Calendário
+	├── Visualização mensal
+	├── Seleção de data de treino
+	└── Treinos agendados
+
+├── Treinos
+
+	├── Tabela de treinos
+	│   ├── Visualizar treino
+	│   ├── Editar treino
+	│   └── Registrar mudanças
+	│
+	├── Registrar treino
+	│   ├── Selecionar data(s) (calendário)
+	│   └── Confirmar / Cancelar
+	│
+ 	├── Editar treinos
+	│   ├── Alterar exercícios
+	│   ├── Ajustar séries/reps
+	│   └── Salvar mudanças
+
+├── Pesquisa
+	├── Pesquisar exercícios 
+	├── Pesquisar treinos
+	└── Resultados
+
+
+Conta
+├── Login
+│   ├── E-mail
+│   ├── Senha
+│   └── Entrar
+│
+├── Cadastro
+│   └── E-mail
+|   ├─── Senha
+|   └── Cadastrar
+│
+├── Perfil
+│   ├── Editar foto
+│   └── Confirmar / Cancelar alterações
